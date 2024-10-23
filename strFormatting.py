@@ -26,3 +26,5 @@ str1 = "{0:.4f}".format(5/9)
 print("\none-sixth is : ")
 print(str1)
 
+str2 = "|{:<10}|{:^10}|{:>10}|".format('Vinay','Kumar','Patel')
+print(str2)
